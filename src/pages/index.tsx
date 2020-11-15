@@ -6,9 +6,13 @@ import Carbon from '../components/Carbon';
 
 const IndexPage = () => (
   <Layout>
+
+    {/* <AboutSection /> */}
+    {/* <CourseSection /> */}
+    <Carbon />
     <CloudVR />
     <Arvrdg />
-    <Carbon />
+
   </Layout>
 );
 
