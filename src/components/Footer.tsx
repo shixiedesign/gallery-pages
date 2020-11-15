@@ -50,7 +50,6 @@ const Footer = () => (
         }
       />
       */}
-
   </Box>
   </Container>
 );
